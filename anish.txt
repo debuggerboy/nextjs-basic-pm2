@@ -1,0 +1,3 @@
+Reference:
+
+- https://github.com/vercel/next.js/discussions/10675

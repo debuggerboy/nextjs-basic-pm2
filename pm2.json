@@ -1,0 +1,11 @@
+{
+  "apps": [
+      {
+          "name": "pylot",
+          "script": "npm",
+          "args" : "start",
+          "instances": "2",
+          "exec_mode": "cluster"
+      }
+  ]
+}
